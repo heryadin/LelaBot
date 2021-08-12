@@ -1,0 +1,17 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "bot", 
+	"zeksKey": "hariyadin",
+	"autoRead": false,
+	"maxLimit": 30,
+	"ownerList": ["6282279601471@s.whatsapp.net"], 
+	"apiUrl": "https://api.zeks.xyz",
+        "apiLol": "https://api.lolhuman.xyz",
+        "imgUrl": "https://i.ibb.co/c80cZ3Y/pp-biodata.jpg",
+	"botname": "LELA BOTZ", 
+	"xkey": "your_key96b0fd663b4c7de98c72efba", 
+        "eztykey": "eztyb",
+        "lolkey": "96b0fd663b4c7de98c72efba",
+	"pack": "Hariyadi",
+	"author": "Ganz"
+}
